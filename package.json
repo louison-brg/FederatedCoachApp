@@ -1,0 +1,1 @@
+{"name":"FitnessCoachApp","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"@tensorflow/tfjs":"^4.19.0","axios":"^1.7.1","react-native":"0.74.1","react-native-webview":"^13.10.2"}}
