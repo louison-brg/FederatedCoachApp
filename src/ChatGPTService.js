@@ -1,7 +1,7 @@
 // src/ChatGPTService.js
 import axios from 'axios';
 
-const API_KEY = 'sk-proj-7idbT7wc8xZgga3ckcBrT3BlbkFJULP6Qfdxk8oikjqDP19O'; // Replace with your actual API key
+const API_KEY = ''; // Replace with your actual API key
 
 const instance = axios.create({
     baseURL: 'https://api.openai.com/v1/', // Ensure this is correct
